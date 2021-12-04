@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: tomato;
+}
+header{
+    margin-bottom: 30px;
+}
+a{
+    text-decoration: none;
+    margin:20px;
+    color:#fff;
+}
+a:hover{
+    background-color: gray;
+    padding: 8px 12px;
+    border-radius: 10px;
+}
+ #reception h1{
+    text-align: center;
+ }
+ header img{
+     width: 10%;
+     float: left;
+ }
+ ul,ol {
+     list-style: none;
+ }
+ input{
+     width: 60%;
+     padding: 5px 0px ;
+ }
+ button,select{
+     background-color:blue;
+     color: white;
+     padding: 4px 10px;
+     border: none;
+     border-radius:3px;
+     margin: 20px;
+ }
+ th,td{
+     color: aqua;
+ }
